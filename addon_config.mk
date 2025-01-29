@@ -1,41 +1,13 @@
+meta:
+	ADDON_NAME = ofxSpout
+	ADDON_DESCRIPTION = ofxAddonTemplate is amazing!
+	ADDON_AUTHOR = @elliotwoods
+	ADDON_TAGS = "addon"
+	ADDON_URL = https://github.com/elliotwoods/ofxSpout
+common:
+		
 linux64:
-	ADDON_SOURCES_EXCLUDE = libs/%
-	ADDON_INCLUDES_EXCLUDE = libs/%
-	ADDON_SOURCES =
 
 vs:
 
-linuxarmv6l:
-	ADDON_SOURCES_EXCLUDE = libs/%
-	ADDON_INCLUDES_EXCLUDE = libs/%
-	ADDON_SOURCES =
 
-linuxarmv7l:
-	ADDON_SOURCES_EXCLUDE = libs/%
-	ADDON_INCLUDES_EXCLUDE = libs/%
-	ADDON_SOURCES =
-
-android/armeabi:
-	ADDON_SOURCES_EXCLUDE = libs/%
-	ADDON_INCLUDES_EXCLUDE = libs/%
-	ADDON_SOURCES =
-
-android/armeabi-v7a:
-	ADDON_SOURCES_EXCLUDE = libs/%
-	ADDON_INCLUDES_EXCLUDE = libs/%
-	ADDON_SOURCES =
-
-osx:
-	ADDON_SOURCES_EXCLUDE = libs/%
-	ADDON_INCLUDES_EXCLUDE = libs/%
-	ADDON_SOURCES =
-
-ios:
-	ADDON_SOURCES_EXCLUDE = libs/%
-	ADDON_INCLUDES_EXCLUDE = libs/%
-	ADDON_SOURCES =
-
-tvos:
-	ADDON_SOURCES_EXCLUDE = libs/%
-	ADDON_INCLUDES_EXCLUDE = libs/%
-	ADDON_SOURCES =

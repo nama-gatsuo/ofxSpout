@@ -1,6 +1,4 @@
 #pragma once
-
-#include "ofxSpout/Sender.h"
-#include "ofxSpout/Receiver.h"
-
-#include "ofxSpout/Utils.h"
+#include "Utils.h"
+#include "Sender.h"
+#include "Receiver.h"

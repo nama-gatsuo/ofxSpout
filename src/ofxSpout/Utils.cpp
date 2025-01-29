@@ -1,4 +1,5 @@
 #include "Utils.h"
+
 #include "ofGLUtils.h"
 
 namespace ofxSpout {
