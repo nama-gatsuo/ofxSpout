@@ -7,3 +7,6 @@ meta:
 vs:
 	ADDON_DLLS_TO_COPY = libs/SpoutSDK/lib/vs/x64/Spout.dll
 	ADDON_LIBS = libs/SpoutSDK/lib/vs/x64/Spout.lib
+msys2:
+	ADDON_DLLS_TO_COPY = libs/SpoutSDK/lib/msys2/x64/libSpout.dll
+	ADDON_LIBS = libs/SpoutSDK/lib/msys2/x64/libSpout.dll.a
